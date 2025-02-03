@@ -71,14 +71,14 @@ The Image Caption Generator uses deep learning models to generate captions for i
 4. Feature Extraction – Complete
 5. Dataset Creation – Complete
 6. Visualization & Analysis – Complete
-8. Model Architecture – Partial
-9. Training Process – Partial
-10. Evaluation & Inference – Missing
+8. Model Architecture – Complete
+9. Training Process – Complete
+10. Optimize Model Performance – complete
 
 ### Partially Implemented Features
-1. Audio Captioning – Partial
-2. Optimize Model Performance – Optimization
-3. Website Deployment
+1. Evaluation & Inference – Partial
+2. Audio Captioning – Partial
+4. Website Deployment
 
 
 ## 🔮Future Scope
