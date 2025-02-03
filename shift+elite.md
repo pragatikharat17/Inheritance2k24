@@ -107,8 +107,8 @@ The Image Caption Generator uses deep learning models to generate captions for i
 
 ## 👨‍🏫Mentors
 
-- [Pranav Janjani](pranavjanjani)
-- [Mihir Gore](MihirGore23)
+- [Pranav Janjani](https://github.com/pranavjanjani)
+- [Mihir Gore](https://github.com/MihirGore23)
 
 ## 📱Screenshots
 [Drive Link to Screenshots](https://drive.google.com/drive/folders/15m6KIRExkPqslkCtdI10p0eDwiRSqDRe?usp=share_link)
